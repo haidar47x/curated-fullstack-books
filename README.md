@@ -4,7 +4,7 @@
 This repository contains a list of curated books that are suitable for full-stack development. This is a mixture of both free and paid books. The titles are picked based on their high ratings and positive reviews from sites like [Goodreads](https://goodreads.com) and [Amazon](https://amazon.com). 
 
 <br>
-*Feel free to contribute. ;)*
+<i>Feel free to contribute. ;)<i>
 <br>
   
 ### Algorithms and Data Structures
