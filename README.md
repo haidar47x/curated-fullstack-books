@@ -5,11 +5,11 @@ This repository contains a list of curated books that are suitable for full-stac
   
 ### Algorithms and Data Structures
 
-- A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
+- *A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow*
 - *Cracking the Coding Interview by Gayle Laakmann McDowell*
 - *Grokking Algorithms by Aditya Bhargava*
 - *Introduction to Algorithms by Thomas Cormen*
-- *Think Complexity by Allen B. Downey*
+- *Think Complexity by Allen B. Downey (Free)*
 
 ### Design Patterns & Code Quality
 
@@ -36,7 +36,7 @@ This repository contains a list of curated books that are suitable for full-stac
 
 #### Databases
 
-- *Database Design by Adrienne Watt*
+- *Database Design by Adrienne Watt (Free)*
 - *Database Design for Mere Mortals by Michael J. Hernandez*
 - *Essential SQLAlchemy by Jason Myers*
 - *MongoDB: The Definitive Guide by Kristina Chodrow*
@@ -65,14 +65,14 @@ This repository contains a list of curated books that are suitable for full-stac
 
 #### Python
 
-- *A Guide to Python's Magic Methods by Rafe Kettler*
-- *Architecture Patterns with Python by Harry Percival*
+- *A Guide to Python's Magic Methods by Rafe Kettler (Free)*
+- *Architecture Patterns with Python by Harry Percival (Free)*
 - *Beyond the Basic Stuffs with Python by Al Sweigart*
-- *Building Skills in Object-Oriented Design by Steven Lott*
+- *Building Skills in Object-Oriented Design by Steven Lott (Free)*
 - *CPython Internals by Anthony Shaw*
 - *Clean Architectures with Python by Leonardo Giordani*
 - *Cython by Kurt Smith*
-- *Dive Into Python 3 by Mark Pilgrim*
+- *Dive Into Python 3 by Mark Pilgrim (Free)*
 - *Effective Python by Brett Slatkin*
 - *Fluent Python by Luciano Ramalho*
 - *High Performance Python by Micha Gorelick*
@@ -80,20 +80,20 @@ This repository contains a list of curated books that are suitable for full-stac
 - *Intermediate Python by Muhammad Yasoob Ullah Khalid*
 - *Practical Python Design Patterns by Wessel Badenhorst*
 - *Python 3 Object-Oriented Programming by Dusty Phillips*
-- *Python 3 Official Documentation*
-- *Python 3 Patterns, Recipes, and Idioms by Bruce Eckel*
+- *Python 3 Official Documentation (Online)*
+- *Python 3 Patterns, Recipes, and Idioms by Bruce Eckel (Free)*
 - *Python Cookbook by David Beazly*
 - *Python Design Patterns by Brandon Rhodes*
-- *Python Notes for Professional by goalkicker.com*
+- *Python Notes for Professional by goalkicker.com (Free)*
 - *Python Packages by Tomas Beuzen*
 - *Python Testing with Pytest by Brian Okken*
 - *Python for Data Analysis by Wes McKinney*
-- *Python re(gex)? by Sandeep Agarwal*
+- *Python re(gex)? by Sandeep Agarwal (Free)*
 - *Robust Python by Patrick Viafore*
 - *Test-Driven Development with Python by Harry Percival*
 - *Testing Python by David Sale*
 - *The Hacker's Guide to Python by Julien Danjou*
-- *The Hitchhiker's Guide to Python! by Kenneth Reitz*
+- *The Hitchhiker's Guide to Python! by Kenneth Reitz (Free)*
 - *The Little Book of Python Anti-Patterns by Kayce Basques*
 - *Using Asyncio in Python by Caleb Hattingh*
 
@@ -110,13 +110,13 @@ This repository contains a list of curated books that are suitable for full-stac
 - *Rust Web Development by Bastian Gruber*
 - *Rust for Rustaceans by Jon Gjengset*
 - *The Art of WebAssembly by Rick Battagline*
-- *The Rust Programming Language by Steve Klabnik*
+- *The Rust Programming Language by Steve Klabnik (Free)*
 - *Zero to Production in Rust by Luca Palmieri*
 
 #### Web Architecture
 
 - *AWS Lambda by Matthew Fuller*
-- *AWS Well-Architected Framework by AWS*
+- *AWS Well-Architected Framework by AWS (Free)*
 - *Building Microservices by Sam Newman*
 - *Designing Data Intensive Applications by Martin Kleppmann*
 - *Distributed Systems by Maarten van Steen*
@@ -131,12 +131,12 @@ This repository contains a list of curated books that are suitable for full-stac
 
 #### Web Frameworks *(Python)*
 
-- *Django Official Documentated Book*
+- *Django Official Documentated Book (Online)*
 - *Explore Flask by Robert Picard Revision*
 - *Flask Web Development by Miguel Grinberg*
-- *Full Stack Python by Matt Makai*
+- *Full Stack Python by Matt Makai (Free)*
 - *Lightweight Django: Using REST, WebSockets and Backbone by Julia Elman*
-- *Official Flask Documentation*
+- *Official Flask Documentation (Online)*
 - *Production-Ready GraphQL by Marc-Andre Giroux*
 - *REST APIs with Django by William Vincent*
 - *The Road to GraphQL by Robin Wieruch*
@@ -163,16 +163,16 @@ This repository contains a list of curated books that are suitable for full-stac
 
 ### Linux
 
-- *Advanced Bash-Scripting Guide by Mendel Cooper*
-- *Bash Reference Manual by Chet Ramey*
-- *GNU sed by Sandeep Agarwal*
+- *Advanced Bash-Scripting Guide by Mendel Cooper (Free)*
+- *Bash Reference Manual by Chet Ramey (Free)*
+- *GNU sed by Sandeep Agarwal (Free)*
 - *How Linux Works by Brian Ward*
 - *Modern Vim by Drew Neil*
 - *Practical Vim by Drew Neil*
 - *Pro Git by Scott Chacon*
-- *Shell Scripting by Steve Parker*
+- *Shell Scripting by Steve Parker (Free)*
 - *The Cathedral and the Bazaar by Eric S. Raymond*
-- *The GNU Awk User's Guide*
+- *The GNU Awk User's Guide (Free)*
 - *tmux 2 by Brian Hogan*
 
 ### Software Engineering
