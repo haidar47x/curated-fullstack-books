@@ -194,7 +194,7 @@ This repository contains a list of curated books that are suitable for full-stac
 - *The Pragmatic Programmer by Andrew Hunt*
 - *Unit Testing Principles by Vladimir Khorikov*
 - *Web Scalability for Startup Engineers by Ejsmont A.*
-  
-  <br>
-  <p align="center"><i>Feel free to contribute. ;)<i></p>
+
+<br>
+<p align="center"><i>Feel free to contribute. ;)<i></p>
 
