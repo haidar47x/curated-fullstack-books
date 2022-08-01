@@ -3,8 +3,10 @@
 <br>
 This repository contains a list of curated books that are suitable for full-stack development. This is a mixture of both free and paid books. The titles are picked based on their high ratings and positive reviews from sites like [Goodreads](https://goodreads.com) and [Amazon](https://amazon.com). 
 
+<br>
 *Feel free to contribute. ;)*
-
+<br>
+  
 ### Algorithms and Data Structures
 
 - A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
