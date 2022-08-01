@@ -7,7 +7,7 @@ This repository contains a list of curated books that are suitable for full-stac
 
 ### Algorithms and Data Structures
 
-- *A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
+- A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
 - *Cracking the Coding Interview by Gayle Laakmann McDowell*
 - *Grokking Algorithms by Aditya Bhargava*
 - *Introduction to Algorithms by Thomas Cormen*
