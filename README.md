@@ -2,22 +2,22 @@
 ### Algorithms and Data Structures
 
 - *A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow*
+- *Cracking the Coding Interview by Gayle Laakmann McDowell*
 - *Grokking Algorithms by Aditya Bhargava*
 - *Introduction to Algorithms by Thomas Cormen*
-- *Cracking the Coding Interview by Gayle Laakmann McDowell*
 - *Think Complexity by Allen B. Downey*
 
 ### Design Patterns & Code Quality
 
+- *Adaptive Code by Gary McLean Hall*
+- *Clean Architecture by Robert C. Martin*
 - *Clean Code by Robert C. Martin*
 - *Code Complete by Steve McConnell*
 - *Code Quality by Diomidis Spinellis*
 - *Design Patterns by Erich Gamma*
-- *Adaptive Code by Gary McLean Hall*
+- *Patterns of Enterprise Application Architecture by Martin Fowler*
 - *Programming Pearls by Jon Bentley*
 - *Refactoring by Martin Fowler*
-- *Patterns of Enterprise Application Architecture by Martin Fowler*
-- *Clean Architecture by Robert C. Martin*
 - *Refactoring to Patterns by Joshua Kerievsky*
 
 ### Full Stack Development
@@ -95,19 +95,19 @@
 
 #### Rust
 
-- *The Rust Programming Language by Steve Klabnik*
-- *Programming Rust by Jim Blandy*
 - *Command-Line Rust by Ken Youens*
-- *Rust for Rustaceans by Jon Gjengset*
-- *Rust Web Development by Bastian Gruber*
-- *Rust Servers, Services, and Apps by Prabhu Eshwarla*
+- *Hands-on Concurrency with Rust by Brian Troutwine*
+- *Hands-on Rust by Herbert Wolverson*
+- *Programming Rust by Jim Blandy*
+- *Refactoring to Rust by Lily Mara*
 - *Rust Cookbook by Vigneshwer Dhinakaran*
 - *Rust Design Patterns by E. Dunham*
-- *Hands-on Concurrency with Rust by Brian Troutwine*
-- *Refactoring to Rust by Lily Mara*
-- *Zero to Production in Rust by Luca Palmieri*
-- *Hands-on Rust by Herbert Wolverson*
+- *Rust Servers, Services, and Apps by Prabhu Eshwarla*
+- *Rust Web Development by Bastian Gruber*
+- *Rust for Rustaceans by Jon Gjengset*
 - *The Art of WebAssembly by Rick Battagline*
+- *The Rust Programming Language by Steve Klabnik*
+- *Zero to Production in Rust by Luca Palmieri*
 
 #### Web Architecture
 
@@ -122,8 +122,8 @@
 - *Kafka: The Definitive Guide by Gwen Shapira*
 - *Microservice APIs: With Examples in Python by Jose Haro Peralta*
 - *Microservice Patterns by Chris Richardson*
-- *ZeroMQ: Messaging for Many Applications by Pieter Hintjens*
 - *RabbitMQ in Depth Gavin Roy*
+- *ZeroMQ: Messaging for Many Applications by Pieter Hintjens*
 
 #### Web Frameworks *(Python)*
 
@@ -136,16 +136,16 @@
 - *Production-Ready GraphQL by Marc-Andre Giroux*
 - *REST APIs with Django by William Vincent*
 - *The Road to GraphQL by Robin Wieruch*
-- *Two Scoops of Django: Best Practices by Daniel Feldroy *(Pick 4.X)**
+- *Two Scoops of Django: Best Practices by Daniel Feldroy* 
 
 #### Web Front-End
 
-- *Programming TypeScript by Boris Cherny*
-- *Effective TypeScript by Dan Vanderkam*
 - *CSS in Depth by Keith Grant*
+- *Effective TypeScript by Dan Vanderkam*
 - *Learning React by Alex Banks*
-- *React Hooks in Action by Mark Tielens Thomas*
+- *Programming TypeScript by Boris Cherny*
 - *React Design Patterns and Best Practices by Michele Bertoli*
+- *React Hooks in Action by Mark Tielens Thomas*
 
 #### Web Services
 
@@ -159,17 +159,17 @@
 
 ### Linux
 
-- *The Cathedral and the Bazaar by Eric S. Raymond*
+- *Advanced Bash-Scripting Guide by Mendel Cooper*
+- *Bash Reference Manual by Chet Ramey*
+- *GNU sed by Sandeep Agarwal*
 - *How Linux Works by Brian Ward*
-- *Practical Vim by Drew Neil*
 - *Modern Vim by Drew Neil*
-- *tmux 2 by Brian Hogan*
+- *Practical Vim by Drew Neil*
 - *Pro Git by Scott Chacon*
 - *Shell Scripting by Steve Parker*
-- *Advanced Bash-Scripting Guide by Mendel Cooper*
-- *GNU sed by Sandeep Agarwal*
+- *The Cathedral and the Bazaar by Eric S. Raymond*
 - *The GNU Awk User's Guide*
-- *Bash Reference Manual by Chet Ramey*
+- *tmux 2 by Brian Hogan*
 
 ### Software Engineering
 
@@ -177,7 +177,6 @@
 - *Agile Software Development, Principles, Patterns, and Practices by Robert C. Martin*
 - *BDD in Action by John Ferguson*
 - *Domain Driven Design by Eric Evans*
-- *The Mythical Man-Month by Frederick Brooks*
 - *Essential Scrum by Kenneth S. Rubin*
 - *Fundamentals of Software Architecture by Mark Richards*
 - *Implementing Domain Driven Design by Vaughn Vernon*
@@ -186,6 +185,7 @@
 - *System Design Interview by Alex Xu*
 - *The Clean Coder by Robert C. Martin*
 - *The Effective Engineer by Edmond Lau*
+- *The Mythical Man-Month by Frederick Brooks*
 - *The Nature of Software Development by Ron Jeffries*
 - *The Pragmatic Programmer by Andrew Hunt*
 - *Unit Testing Principles by Vladimir Khorikov*
