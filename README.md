@@ -1,7 +1,12 @@
+<center> ***Knowing is half the battle.*** — G. I. Joe </center>
+
+This repository contains a list of curated books that are suitable for full-stack development. This is a mixture of both free and paid books. The titles are picked based on their high ratings and positive reviews from sites like [Goodreads](https://goodreads.com) and [Amazon](https://amazon.com). 
+
+*Feel free to contribute. ;)*
 
 ### Algorithms and Data Structures
 
-- *A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow*
+- *A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
 - *Cracking the Coding Interview by Gayle Laakmann McDowell*
 - *Grokking Algorithms by Aditya Bhargava*
 - *Introduction to Algorithms by Thomas Cormen*
