@@ -149,6 +149,7 @@ This repository contains a list of curated books that are suitable for full-stac
 - Learning React by Alex Banks
 - Programming TypeScript by Boris Cherny
 - React Design Patterns and Best Practices by Michele Bertoli
+- Learning React by Alex Banks and Eve Porcello
 - React Hooks in Action by Mark Tielens Thomas
 
 #### Web Services
