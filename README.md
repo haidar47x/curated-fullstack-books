@@ -149,6 +149,7 @@ This repository contains a list of curated books that are suitable for full-stac
 - Effective TypeScript by Dan Vanderkam
 - Learning React by Alex Banks
 - Programming TypeScript by Boris Cherny
+- You Don't know JS: Async & Performance by Kyle Simpson
 - React Design Patterns and Best Practices by Michele Bertoli
 - React Hooks in Action by Mark Tielens Thomas
 
