@@ -1,5 +1,5 @@
 <br>
-<p align="center"><i><b>Knowing is half the battle.</b></i> — G. I. Joe<center>
+<p align="center"><i><b>Knowing is half the battle.</b></i> — G. I. Joe</p>
 <br>
 This repository contains a list of curated books that are suitable for full-stack development. This is a mixture of both free and paid books. The titles are picked based on their high ratings and positive reviews from sites like Goodreads and Amazon.
   
